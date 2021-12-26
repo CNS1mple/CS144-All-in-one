@@ -1,11 +1,15 @@
 # CS144-All-in-one
 
-CS144是斯坦福的一门计算机网络课程。全称：CS 144: Introduction to Computer Networking
+> CS144是斯坦福的一门计算机网络课程。全称：CS 144: Introduction to Computer Networking。课程的重点在于lab，一步步实现一个TCP协议。  
+
+在这里记录下在这门课学到的知识，以及做实验的心得和坑点。
 
 ## 常用网址
 课程主页：https://cs144.github.io/ 
 
 课程课件：https://github.com/khanhnamle1994/computer-networking/tree/master/Unit1-Internet-and-IP
+
+计算机网络自顶向下b站网课: https://www.bilibili.com/video/BV1JV411t7ow?from=search&seid=4008601965164722839&spm_id_from=333.337.0.0
 
 ## 实验笔记
 
